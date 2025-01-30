@@ -1,8 +1,12 @@
-source:      .
-destination: ./_site
-includes:    ./_includes
-baseurl: /msaveski
+# source:      .
+# destination: ./_site
+# includes:    ./_includes
+# baseurl: /msaveski
 
+# collections:
+#   projects:
+#     output: true
+baseurl: ""
 collections:
-  projects:
+  posts:
     output: true
