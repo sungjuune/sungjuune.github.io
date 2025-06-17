@@ -1,0 +1,47 @@
+main:
+
+  - title: Test-time Adaptation for Online Vision-Language Navigation with Feedback-based Reinforcement Learning
+    authors: <strong>Sungjune Kim*</strong>, Gyeongrok Oh*, Heeju Ko, Daehyun Ji, Dongwook Lee, Byung-Jun Lee, Sujin Jang, Sangpil Kim
+    conference_short: ICML 25'
+    conference: International Conference on Machine Learning, 2025.
+    pdf: https://sungjune-kim.github.io/
+    bibtex: https://sungjune-kim.github.io/
+    image: ./assets/img/feedtta.png
+
+  - title: 3D Occupancy Prediction with Low-resolution Queries via Prototype-aware View Transformation
+    authors: Gyeongrok Oh*, <strong>Sungjune Kim*</strong>, Heeju Ko, Hyung-gun Chi, Jinkyu Kim, Dongwook Lee, Daehyun Ji, Sungjoon Choi, Sujin Jang, Sangpil Kim
+    conference_short: CVPR 25'
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2503.15185
+    page: https://kuai-lab.github.io/cvpr2025protoocc/
+    bibtex: https://sungjune-kim.github.io/
+    notes: Poster Presentation
+    image: ./assets/img/protoocc.png
+
+  - title: Enhanced Motion Forecasting with Visual Relation Reasoning
+    authors: <strong>Sungjune Kim</strong>, Hadam Baek, Seunggwan Lee, Hyung-gun Chi, Hyerin Lim, Jinkyu Kim, Sangpil Kim
+    conference_short: ECCV 24'
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+    pdf: https://eccv.ecva.net/virtual/2024/poster/1385
+    bibtex: https://sungjune-kim.github.io/
+    notes: Poster Presentation
+    image: ./assets/img/ViRR.png
+    # notes: Early Accept
+
+  - title: Higher-order Relational Reasoning for Pedestrian Trajectory Prediction
+    authors: <strong>Sungjune Kim</strong>, Hyung-gun Chi, Hyerin Lim, Karthik Ramani, Jinkyu Kim, Sangpil Kim
+    conference_short: CVPR 24'
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.
+    pdf: https://openaccess.thecvf.com/content/CVPR2024/papers/Kim_Higher-order_Relational_Reasoning_for_Pedestrian_Trajectory_Prediction_CVPR_2024_paper.pdf
+    bibtex: https://sungjune-kim.github.io/
+    notes: Poster Presentation
+    image: ./assets/img/HighGraph.png
+
+  - title: Self-supervised Multimodal Graph Convolutional Network for Collaborative Filtering
+    authors: <strong>Sungjune Kim</strong>, Seongjun Yun, Jongwuk Lee, Gyusam Chang, Wonseok Roh, Daneung Sohn, Jungtae Lee, Hogun Park, Sangpil Kim
+    conference_short: Inf. Sci. 24'
+    conference: <strong>Information Sciences</strong>, 2023.
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0020025523013452
+    bibtex: https://sungjune-kim.github.io/
+    notes: Impact Factor 8.1
+    image: ./assets/img/SMGCN.png
