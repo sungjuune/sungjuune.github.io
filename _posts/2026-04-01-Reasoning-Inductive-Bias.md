@@ -13,8 +13,8 @@ When we build AI agents with LLM/LVLMS, we often expect them to *just figure it 
 
 
 <figure style="text-align: center;">
-  <img src="/Users/sungjunekim/Desktop/sungjune/sungjuune.github.io/assets/img/posts/nethack.jpg" alt="Nethack Game" width="180">
-  <img src="/Users/sungjunekim/Desktop/sungjune/sungjuune.github.io/assets/img/posts/simworld.jpg" alt="Simulated World" width="260">
+  <img src="/assets/img/posts/nethack.jpg" alt="Nethack Game" width="180">
+  <img src="/assets/img/posts/simworld.jpg" alt="Simulated World" width="260">
   <figcaption style="font-style: italic; color: gray; margin-top: 8px;">
     Figure 1: Comparison between 2D game environments (NetHack) and 3D simulations (SimWorld).
   </figcaption>
