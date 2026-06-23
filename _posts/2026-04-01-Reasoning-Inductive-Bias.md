@@ -40,3 +40,8 @@ When the LLM agent is operating in the embodied 3D simulator (*e.g,* Habitat and
 - Object Permanence: Unlike a 2D sprite that might vanish when off-screen, a 3D agent needs a temporal bias. It must assume the kitchen is still behind it even when looking at the living room.
 
 - Affordances: In 3D, we bias the agent toward *actionability*. Instead of seeing a door as a texture, the agent biases its reasoning toward "What can I do with this?" (Open, close, lock).
+
+
+[Added 2026.06.23 from DreamerV3]
+
+"Complex 3D environments contain details unnecessary for control and thus prompt a stronger regularizer to simplify the representations and make them more predictable. In games with static backgrounds and where individual pixels may matter for the task, a weak regularizer is required to extract fine details."
